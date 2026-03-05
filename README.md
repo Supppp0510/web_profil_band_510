@@ -13,12 +13,12 @@ Website ini dibuat menggunakan **HTML, CSS, dan JavaScript** serta memiliki **in
 
 ### Artist Section
 
-![Artist Section](preview/✅(2).png)
+![Artist Section](preview/✅ (2).png)
 
 ### Album Section
 
-![Album Section](preview/✅(3).png)
-![Album Section](preview/✅(4).png)
+![Album Section](preview/✅ (3).png)
+![Album Section](preview/✅ (4).png)
 
 ---
 
