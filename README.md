@@ -9,16 +9,16 @@ Website ini dibuat menggunakan **HTML, CSS, dan JavaScript** serta memiliki **in
 
 ### Homepage
 
-![Homepage]<img src="preview/preview1.png" width="600">
+<img src="preview/preview1.png" width="600">
 
 ### Artist Section
 
-![Artist Section]<img src="preview/preview4.png" width="600">
+<img src="preview/preview4.png" width="600">
 
 ### Album Section
 
-![Album Section].<img src="preview/preview3.png" width="600">
-![Album Section]<img src="preview/preview2.png" width="600">
+<img src="preview/preview3.png" width="600">
+<img src="preview/preview2.png" width="600">
 
 ---
 
